@@ -1,0 +1,38 @@
+Name=Original Smileys, ICQ
+Description=ICQ as default
+Icon=../pidgin-original/icq/smile.gif
+Author=Andrei Neculau
+
+
+# ICQ 6
+[default]
+../pidgin-original/icq/smile.gif				:)	:-)
+../pidgin-original/icq/kiss.gif					:-*	:-{}
+../pidgin-original/icq/confused.gif				:-$	:-|
+../pidgin-original/icq/kissing.gif				*kissing*	*KISSING*
+../pidgin-original/icq/sad.gif					:(	:-(
+../pidgin-original/icq/blush.gif				:-[
+../pidgin-original/icq/shocked.gif				=-o	=-O	*shocked*	*SHOCKED*	*surprised*	*SURPRISED*
+../pidgin-original/icq/devil.gif				]:->
+../pidgin-original/icq/wink.gif					;)	;-)
+
+../pidgin-original/icq/angel.gif				o:-)	O:-)	O-)
+../pidgin-original/icq/cool.gif					8)	8-)
+../pidgin-original/icq/flower.gif 				@}->--
+../pidgin-original/icq/tongueout.gif			:p	:-p	:P	:-P
+../pidgin-original/icq/silent.gif				:x	:-x	:X	:-X
+../pidgin-original/icq/headphone.gif			[:-}
+../pidgin-original/icq/bomb.gif					@=
+../pidgin-original/icq/jokingly.gif				*jokingly*	*JOKINGLY*
+../pidgin-original/icq/yell.gif					:-\\	:-/
+
+../pidgin-original/icq/yawning.gif				*tired*	*TIRED*
+../pidgin-original/icq/thumbsup.gif				thumbs\ up*	*THUMBS\ UP*
+../pidgin-original/icq/crying.gif				:'(	:'-(	*whining*	*WHINING*
+../pidgin-original/icq/mad.gif					>:-o	>:-O
+../pidgin-original/icq/sick.gif					:-!
+../pidgin-original/icq/drink.gif				*drink*	*DRINK*
+../pidgin-original/icq/kissed.gif				*kissed*	*KISSED*
+../pidgin-original/icq/laughing.gif				:d	:-d	:D	:-D
+../pidgin-original/icq/stop.gif					*stop*	*STOP*
+../pidgin-original/icq/inlove.gif				*in\ love*	*IN\ LOVE*

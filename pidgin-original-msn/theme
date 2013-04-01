@@ -1,0 +1,95 @@
+Name=Original Smileys, WLM/LCS
+Description=WLM/LCS as default, Chris Baker
+Icon=../pidgin-original/msn/smile.gif
+Author=Andrei Neculau
+
+
+# WLM 8.1
+[default]
+../pidgin-original/msn/smile.gif				:)	:-)
+../pidgin-original/msn/sad.gif					:(	:-(
+../pidgin-original/msn/wink.gif					;)	;-)
+../pidgin-original/msn/openmouthed.gif			:d	:-d	:D	:-D
+../pidgin-original/msn/confused.gif				:s	:-s	:S	:-S
+../pidgin-original/msn/tongueout.gif			:p	:-p	:P	:-P
+../pidgin-original/msn/embarrassed.gif			:$	:-$
+../pidgin-original/msn/surprised.gif			:o	:-o	:O	:-O
+../pidgin-original/msn/disappointed.gif			:|	:-|
+
+../pidgin-original/msn/angry.gif				:@	:-@
+../pidgin-original/msn/angel.gif				(a)	(A)
+../pidgin-original/msn/hot.gif					(h)	(H)
+../pidgin-original/msn/devil.gif				(6)
+../pidgin-original/msn/crying.gif				:'(
+../pidgin-original/msn/donttellanyone.gif		:-#
+../pidgin-original/msn/nerd.gif					8-|
+../pidgin-original/msn/secrettelling.gif		:-*
+../pidgin-original/msn/idontknow.gif			:^)
+
+../pidgin-original/msn/party.gif				<:o)
+../pidgin-original/msn/sleepy.gif				|-)
+../pidgin-original/msn/baringteeth.gif			8o|
+../pidgin-original/msn/sarcastic.gif			^o)
+../pidgin-original/msn/sick.gif					+o(
+../pidgin-original/msn/thinking.gif				*-)
+../pidgin-original/msn/eyerolling.gif			8-)
+../pidgin-original/msn/redrose.gif				(f)	(F)
+../pidgin-original/msn/wiltedrose.gif			(w)	(W)
+
+../pidgin-original/msn/lightbulb.gif			(i)	(I)
+../pidgin-original/msn/boy.gif					(z)	(Z)
+../pidgin-original/msn/girl.gif					(x)	(X)
+../pidgin-original/msn/asl.gif					(?)
+../pidgin-original/msn/catface.gif				(@)
+../pidgin-original/msn/dogface.gif				(&)
+../pidgin-original/msn/star.gif					(*)
+../pidgin-original/msn/sleepinghalfmoon.gif		(S)
+../pidgin-original/msn/sun.gif					(#)
+
+../pidgin-original/msn/note.gif					(8)
+../pidgin-original/msn/brb.gif					(brb)
+../pidgin-original/msn/clap.gif					(h5)
+../pidgin-original/msn/fingerscrossed.gif		(yn)
+../pidgin-original/msn/handcuffs.gif			(%)
+../pidgin-original/msn/vampirebat.gif			:[	:-[
+../pidgin-original/msn/camera.gif				(p)	(P)
+../pidgin-original/msn/filmstrip.gif			(~)
+../pidgin-original/msn/coffeecup.gif			(c)	(C)
+
+../pidgin-original/msn/giftwithabow.gif			(g)	(G)
+../pidgin-original/msn/email.gif				(e)	(E)
+../pidgin-original/msn/thumbsdown.gif			(n)	(N)
+../pidgin-original/msn/thumbsup.gif				(y)	(Y)
+../pidgin-original/msn/lefthug.gif				({)
+../pidgin-original/msn/righthug.gif				(})
+../pidgin-original/msn/msnmessengericon.gif		(m)	(M)
+../pidgin-original/msn/birthdaycake.gif			(^)
+../pidgin-original/msn/redheart.gif				(l)	(L)
+
+../pidgin-original/msn/brokenheart.gif			(u)	(U)
+../pidgin-original/msn/redlips.gif				(k)	(K)
+../pidgin-original/msn/beermug.gif				(b)	(B)
+../pidgin-original/msn/martiniglass.gif			(d)	(D)
+../pidgin-original/msn/telephonereceiver.gif	(t)	(T)
+../pidgin-original/msn/clock.gif				(o)	(O)
+../pidgin-original/msn/rainbow.gif				(r)	(R)
+../pidgin-original/msn/snail.gif				(sn)
+../pidgin-original/msn/soccerball.gif			(so)
+
+../pidgin-original/msn/blacksheep.gif			(bah)
+../pidgin-original/msn/auto.gif					(au)
+../pidgin-original/msn/bowl.gif					(||)
+../pidgin-original/msn/computer.gif				(co)
+../pidgin-original/msn/islandwithpalmtree.gif	(ip)
+../pidgin-original/msn/lightning.gif			(li)
+../pidgin-original/msn/mobilephone.gif			(mp)
+../pidgin-original/msn/money.gif				(mo)
+../pidgin-original/msn/pizza.gif				(pi)
+
+../pidgin-original/msn/airplane.gif				(ap)
+../pidgin-original/msn/plate.gif				(pl)
+../pidgin-original/msn/stormycloud.gif			(st)
+../pidgin-original/msn/umbrella.gif				(um)
+../pidgin-original/msn/cigarette.gif			(ci)
+../pidgin-original/msn/turtle.gif				(tu)
+../pidgin-original/msn/xbox.gif					(xx)

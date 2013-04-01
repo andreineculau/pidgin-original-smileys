@@ -1,0 +1,37 @@
+Name=Original Smileys, Facebook
+Description=Facebook as default
+Icon=../pidgin-original/facebook/emote_01.png
+Author=Andrei Neculau
+
+
+# Facebook Chat
+[default]
+../pidgin-original/facebook/emote_01.png		:-)	:)	:]	=)
+../pidgin-original/facebook/emote_02.png		:-(	:(	:[	=(
+../pidgin-original/facebook/emote_03.png		:-P	:P	:-p	:p	=P
+../pidgin-original/facebook/emote_04.png		:-D	:D	=D
+../pidgin-original/facebook/emote_05.png		:-O	:O	:-o	:o
+
+../pidgin-original/facebook/emote_06.png		;-)	;)
+../pidgin-original/facebook/emote_07.png		8-)	8)	B-)	B)
+../pidgin-original/facebook/emote_08.png		8-| 8|	B-|	B|
+../pidgin-original/facebook/emote_09.png		>:(	>:-(
+../pidgin-original/facebook/emote_10.png		:/	:-/	:\	:-\
+
+../pidgin-original/facebook/emote_11.png		:'(
+../pidgin-original/facebook/emote_12.png		3:)	3:-)
+../pidgin-original/facebook/emote_13.png		O:)	O:-)
+../pidgin-original/facebook/emote_14.png		:-*	:*
+../pidgin-original/facebook/emote_15.png		<3
+
+../pidgin-original/facebook/emote_16.png		^_^
+../pidgin-original/facebook/emote_17.png		-_-
+../pidgin-original/facebook/emote_18.png		o.O	O.o
+../pidgin-original/facebook/emote_19.png		>:O	>:-O	>:o	>:-o
+../pidgin-original/facebook/emote_20.png		:v
+
+../pidgin-original/facebook/emote_21.png		:3
+../pidgin-original/facebook/emote_22.png		:|]
+../pidgin-original/facebook/emote_23.png		:putnam:
+../pidgin-original/facebook/emote_24.png		(^^^)
+../pidgin-original/facebook/emote_25.png		<(")

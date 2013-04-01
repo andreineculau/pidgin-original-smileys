@@ -1,0 +1,50 @@
+Name=Original Smileys, GTalk Round
+Description=GTalk Round as default
+Icon=../pidgin-original/gtalk-round/logo.png
+Author=Andrei Neculau
+
+
+# Google Talk
+[default]
+../pidgin-original/gtalk-round/smile.gif			:)	=)	:-)
+../pidgin-original/gtalk-round/grin.gif				:D	=D	:-D
+../pidgin-original/gtalk-round/wink.gif				;)	;-)	;^)
+../pidgin-original/gtalk-round/frown.gif			:(	=(	:-(
+../pidgin-original/gtalk-round/cry.gif				:'(
+
+../pidgin-original/gtalk-round/shocked.gif			:-o
+../pidgin-original/gtalk-round/slant.gif			:-/	=/
+../pidgin-original/gtalk-round/angry.gif			x-(
+../pidgin-original/gtalk-round/wince.gif			\>.\<
+../pidgin-original/gtalk-round/straightface.gif		:-|
+
+../pidgin-original/gtalk-round/cool.gif				B-)
+../pidgin-original/gtalk-round/tongue.gif			:p	:P	=p	=P	:-p	:-P
+../pidgin-original/gtalk-round/heart.gif			<3
+../pidgin-original/gtalk-round/brokenheart.gif		</3
+../pidgin-original/gtalk-round/devil.gif			}:-)
+
+../pidgin-original/gtalk-round/kissstar.gif			:*	:-x
+../pidgin-original/gtalk-round/pig.gif				:(:)
+../pidgin-original/gtalk-round/monkey.gif			:(|)
+../pidgin-original/gtalk-round/rockout.gif			\\m/
+../pidgin-original/gtalk-round/cowbell.gif			+/'\\
+
+../pidgin-original/gtalk-round/crab.gif				V.v.V
+../pidgin-original/gtalk-round/robot.gif			[:|]
+../pidgin-original/gtalk-round/mustache.gif			:{
+../pidgin-original/gtalk-round/poop.gif				~@~
+
+# Variations
+! ../pidgin-original/gtalk-round/equalsmile.gif		=)
+! ../pidgin-original/gtalk-round/equalgrin.gif		=D
+! ../pidgin-original/gtalk-round/equalsad.gif		=(
+! ../pidgin-original/gtalk-round/equalslant.gif		=/
+! ../pidgin-original/gtalk-round/equaltongue.gif	=p	=P
+
+! ../pidgin-original/gtalk-round/nosesmile.gif		:-)
+! ../pidgin-original/gtalk-round/nosegrin.gif		:-D
+! ../pidgin-original/gtalk-round/nosewink.gif		;-)
+! ../pidgin-original/gtalk-round/nosebigwink.gif	;^)
+! ../pidgin-original/gtalk-round/nosesad.gif		:-(
+! ../pidgin-original/gtalk-round/nosetongue.gif		:-p	:-P

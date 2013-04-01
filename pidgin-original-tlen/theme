@@ -1,0 +1,175 @@
+Name=Original Smileys, Tlen.pl
+Description=Tlen as default, Author: Kasper Wieczorek, Andrei Neculau
+Icon=../pidgin-original/tlen/usmiech.gif
+Author=	
+
+
+# Tlen.pl
+[default]
+../pidgin-original/tlen/usmiech.gif			:)	:-)
+../pidgin-original/tlen/smutas.gif			:(	:-(
+../pidgin-original/tlen/oczko.gif			;)	;-)
+../pidgin-original/tlen/smiech.gif			:D	:-D
+../pidgin-original/tlen/jezyk.gif			:P	:-P	:p	:-p
+../pidgin-original/tlen/pechowiec.gif		:0	:-0	:o	:-o	:O	:-O
+../pidgin-original/tlen/beksa.gif			[beksa]
+../pidgin-original/tlen/cool.gif			[cool]
+../pidgin-original/tlen/kwiatek.gif			[kwiat]	[kwiatek]
+../pidgin-original/tlen/lapka.gif			[czesc]	[cze\ś\ć]
+../pidgin-original/tlen/serduszko.gif		[serce]	[love]
+../pidgin-original/tlen/spioch.gif			[spioch]	[\śpioch]
+../pidgin-original/tlen/usta.gif			[usta]	[kiss]
+../pidgin-original/tlen/zly.gif				[zly]	[z\ły]
+../pidgin-original/tlen/wsciekly.gif		[wsciekly]	[w\ściek\ły]
+../pidgin-original/tlen/ziewanie.gif		[ziewam]
+../pidgin-original/tlen/pytanie.gif			[?]
+../pidgin-original/tlen/pytanie2.gif		[??]
+../pidgin-original/tlen/wykrzyknik.gif		[!]
+../pidgin-original/tlen/stop.gif			[stop]
+../pidgin-original/tlen/ok.gif				[ok]
+../pidgin-original/tlen/nie.gif				[nie]
+../pidgin-original/tlen/piorun.gif			[piorun]
+../pidgin-original/tlen/czaszka.gif			[czaszka]
+../pidgin-original/tlen/mail.gif			[mail]
+../pidgin-original/tlen/czas.gif			[czas]
+../pidgin-original/tlen/telefon.gif			[telefon]
+../pidgin-original/tlen/komorka.gif			[komorka]
+../pidgin-original/tlen/piwo.gif			[piwo]
+../pidgin-original/tlen/jem.gif				[jem]
+../pidgin-original/tlen/dom.gif				[dom]
+../pidgin-original/tlen/prezent.gif			[prezent]
+../pidgin-original/tlen/taktak.gif			[taktak]
+../pidgin-original/tlen/nienie.gif			[nienie]
+../pidgin-original/tlen/papa.gif			[papa]
+../pidgin-original/tlen/beczy.gif			[beczy]
+../pidgin-original/tlen/hihi.gif			[hihi]
+../pidgin-original/tlen/mniam.gif			[mniam]
+../pidgin-original/tlen/nie_wiem.gif		[nie_wiem]
+../pidgin-original/tlen/ble.gif				[ble]
+../pidgin-original/tlen/diabel.gif			[diabel]
+../pidgin-original/tlen/zdziwona.gif		[zdziwona]
+../pidgin-original/tlen/niedobrze.gif		[niedobrze]
+../pidgin-original/tlen/strach.gif			[strach]
+../pidgin-original/tlen/kreci.gif			[kreci]
+../pidgin-original/tlen/boks.gif			[boks]
+../pidgin-original/tlen/luzak.gif			[luzak]
+../pidgin-original/tlen/chrapie.gif			[chrapie]
+../pidgin-original/tlen/tanczaca.gif		[tanczaca]
+../pidgin-original/tlen/aniolek.gif			[aniolek]
+../pidgin-original/tlen/hura.gif			[hura]
+../pidgin-original/tlen/gryz.gif			[gryz]
+../pidgin-original/tlen/gadula.gif			[gadula]
+../pidgin-original/tlen/gwizd.gif			[gwizd]
+../pidgin-original/tlen/lezaca.gif			[lezaca]
+../pidgin-original/tlen/tuli.gif			[tuli]
+../pidgin-original/tlen/caluje.gif			[caluje]
+../pidgin-original/tlen/balwan.gif			[balwan]
+../pidgin-original/tlen/budzik.gif			[budzik]
+../pidgin-original/tlen/stuk.gif			[stuk]
+../pidgin-original/tlen/10ton.gif			[10ton]
+../pidgin-original/tlen/kwitnie.gif			[kwitnie]
+../pidgin-original/tlen/cmok.gif			[cmok]
+../pidgin-original/tlen/tak_.gif			<yes>
+../pidgin-original/tlen/nie_.gif			<no>	<nie%%_%%nie>	<nienie>
+../pidgin-original/tlen/papa_.gif			<papa>	<pa%%_%%pa>	<pa_pa>	<papapa>
+../pidgin-original/tlen/krzywy_.gif			:]	:-]
+../pidgin-original/tlen/rotfl_.gif			<rotfl>
+../pidgin-original/tlen/usmiech3_.gif		<:D>	<:-D>
+../pidgin-original/tlen/usmiech4_.gif		<:F>	<:-F>	<:f>	<:-f>
+../pidgin-original/tlen/10ton_.gif			<10ton>	<10%%_%%ton>
+../pidgin-original/tlen/boje_sie_.gif		<boj\ę_si\ę>	<boj\ę_sie>	<boje_si\ę>	<boje_sie>	<boje%%_%%sie>
+../pidgin-original/tlen/calus_.gif			<ca\łus>	<calus>	<ca\łuje>	<caluje>
+../pidgin-original/tlen/cmok_.gif			<cmok>	<cmook>	<cmoook>
+../pidgin-original/tlen/usta_.gif			<usta>
+../pidgin-original/tlen/roza_.gif			<ro\ża>	<roza>	<r\ó\ża>
+../pidgin-original/tlen/jupi_.gif			<huraaa>	<huraaa!>	<hura>	<yupi>	<yupi!>	<jupi>	<jupi!>
+../pidgin-original/tlen/dom_.gif			<dom>
+../pidgin-original/tlen/ok_.gif				<ok>	<OK>	<Ok>	<spoko>	<spox>
+../pidgin-original/tlen/nie2_.gif			<nie>	<odpada>
+../pidgin-original/tlen/pa_.gif				<pa>
+../pidgin-original/tlen/lol_.gif			<lol>
+../pidgin-original/tlen/haha_.gif			<hahaha>	<smiech>	<\śmiech>
+../pidgin-original/tlen/usmiech2_.gif		<wesoly>	<u\śmiech>
+../pidgin-original/tlen/zeby_.gif			<z\ęby>	<zeby>	:E	:-E
+../pidgin-original/tlen/stop_.gif			<stop>	<stop!>	<przesta\ń>	<przestan>
+../pidgin-original/tlen/strach_.gif			<boj\ę%%_%%si\ę>	<boj\ę%%_%%sie>	<boje%%_%%si\ę>
+../pidgin-original/tlen/list_.gif			<list>	<mail>
+../pidgin-original/tlen/serduszka_.gif		<serduszka>	<serduszko>	<serca>	<serce>
+../pidgin-original/tlen/oczko_.gif			<mruga>
+../pidgin-original/tlen/kwitnie_.gif		<kwiatek>
+../pidgin-original/tlen/tancze_.gif			<tancze>	<ta\ńcze>
+../pidgin-original/tlen/prezent_.gif		<prezent>	<niespodzianka>
+../pidgin-original/tlen/piwo_.gif			<piwo>	<stuk>
+../pidgin-original/tlen/jezyk2_.gif			<mniam>	<pycha>
+../pidgin-original/tlen/tuptup_.gif			<id\ę>	<ide>	<idzie>	<tuptup>
+../pidgin-original/tlen/faja_.gif			<faja>	<fajka>	<pal\ę>	<pale>	<pali>	<pali\ć>	<palic>
+../pidgin-original/tlen/paker_.gif			<paker>	<silacz>	<si\łacz>	<silny>
+../pidgin-original/tlen/uczen_.gif			<ucze\ń>	<uczen>	<student>
+../pidgin-original/tlen/aniolek_.gif		<anio\łek>	<aniolek>	<anio\ł>	<aniol>	<niewinny>	<niewinna>
+../pidgin-original/tlen/lezaca_.gif			<le\ż\ąca>	<lez\ąca>	<le\żaca>	<lezaca>	<chodz>	<chod\ź>
+../pidgin-original/tlen/gwizd_.gif			<gwizd>
+../pidgin-original/tlen/przytul_.gif		<przytul>	<przytulanie>
+../pidgin-original/tlen/uscisk_.gif			<u\ścisk>	<uscisk>
+../pidgin-original/tlen/soczek_.gif			<soczek>
+../pidgin-original/tlen/zjem_.gif			<zjem>
+../pidgin-original/tlen/chytry_.gif			:>
+../pidgin-original/tlen/cwaniak_.gif		<cwaniak>	<cfaniak>	<cool>
+../pidgin-original/tlen/samochod_.gif		<bryka>	<auto>	<samoch\ód>	<samochod>
+../pidgin-original/tlen/czarodziej_.gif		<czarodziej>	<magik>
+../pidgin-original/tlen/diabelek_.gif				]:->	<diabelek>	<diabe\ł>	<diabel>
+../pidgin-original/tlen/sex_.gif			<sex>	<seks>
+../pidgin-original/tlen/spie_.gif			<\śpioch>	<spi>	<sen>
+../pidgin-original/tlen/glaszcze_.gif		<g\łaszcze>	<glaszcze>	<cacy>
+../pidgin-original/tlen/3m_sie_.gif			<3m_si\ę>	<3m_sie>	<3m%%_%%si\ę>	<3m%%_%%sie>	<3msi\ę>	<3msie>	<trzymsie>	<trzymsi\ę>	<trzymaj_si\ę>	<trzymaj_sie>	<trzymaj%%_%%si\ę>	<trzymaj%%_%%sie>
+../pidgin-original/tlen/kiler_.gif			<killer>	<kiler>	<strzela>
+../pidgin-original/tlen/czaszka_.gif		<czaszka>
+../pidgin-original/tlen/zly_.gif			<z\ły>	<zly>
+../pidgin-original/tlen/fuck_.gif			<spad\ówa>
+../pidgin-original/tlen/kreci_.gif			<kr\ęci>	<kreci>
+../pidgin-original/tlen/wow_.gif			<wow>	<wow!>
+../pidgin-original/tlen/co_.gif				<co>	<co?>
+../pidgin-original/tlen/slonko_.gif			<s\łonko>	<slonko>	<s\ło\ńce>	<slo\ńce>	<s\łonce>	<slonce>
+../pidgin-original/tlen/nie_powiem_.gif		<nie_powiem>	<niepowiem>	<nie_powie>	<milcze>	<milcz\ę>	<nie%%_%%powiem>
+../pidgin-original/tlen/menu_.gif			<menu>
+../pidgin-original/tlen/nie_wiem_.gif		<nie_wiem>	<niewiem>
+../pidgin-original/tlen/oczy_.gif			<k\łamie>	<klamie>	<k\łamczuch>	<klamczuch>
+../pidgin-original/tlen/pytajnik_.gif		<??>
+../pidgin-original/tlen/piorun_.gif			<piorun>
+../pidgin-original/tlen/wykrzyknik_.gif		<!!>
+../pidgin-original/tlen/peace_.gif			<peace>	<pok\ój>	<pokoj>
+../pidgin-original/tlen/klotnia_.gif		<k\ł\ótnia>	<kl\ótnia>	<k\łotnia>	<klotnia>
+../pidgin-original/tlen/wsciekly_.gif		<w\ściek\ły>	<grr>	<gr>	<w\ściek\ły>	<wsciek\ły>	<w\ściekly>	<wsciekly>
+../pidgin-original/tlen/boks_.gif			<boks>	<bije>	<bij>
+../pidgin-original/tlen/dupa_.gif			<dupa>	<pupa>
+../pidgin-original/tlen/niedobrze_.gif		<niedobrze>
+../pidgin-original/tlen/sciana_.gif			<mur>	<sciana>	<\ściana>
+../pidgin-original/tlen/pomocy_.gif			<pomocy>	<pomocy!>	<help>	<help!>
+../pidgin-original/tlen/co_jest_.gif		<co_jest>	<co%%_%%jest>
+../pidgin-original/tlen/kwasny_.gif			<zniesmaczony>	<kwasny>
+../pidgin-original/tlen/ysz_.gif			:|	<nie_rozumiem>	<nie%%_%%rozumiem>
+../pidgin-original/tlen/zmieszanie_.gif		<zmieszanie>
+../pidgin-original/tlen/zawstydzony_.gif	<wstydni\ś>	<zawstydzony>
+../pidgin-original/tlen/smutny_.gif			<smutny>
+../pidgin-original/tlen/placze_.gif			;(	<placz>	<placze>	<beksa>
+../pidgin-original/tlen/telefon2_.gif		<dzwoni>
+../pidgin-original/tlen/telefon_.gif		<telefon>	<gadula>	<telefonuje>	<telefonuj\ę>
+../pidgin-original/tlen/komora_.gif			<kom\óra>	<komora>
+../pidgin-original/tlen/czas_.gif			<czas>	<budzik>
+../pidgin-original/tlen/balwan_.gif			<ba\łwan>	<balwan>
+../pidgin-original/tlen/glupek_.gif			<g\łupek>	<glupek>
+../pidgin-original/tlen/jezyk_.gif			;P	<blee>	<ble>
+../pidgin-original/tlen/prysznic_.gif		<prysznic>
+../pidgin-original/tlen/pisze_.gif			<chatownik>	<czatownik>	<klika>	<pisze>	<czatuje>
+../pidgin-original/tlen/czytaj_.gif			<czytaj>	<czytaj_to>
+../pidgin-original/tlen/cisza_.gif			<cisza>	<cisza!>
+../pidgin-original/tlen/czyta_.gif			<czyta	gazete>	<uczy_si\ę>	<uczy_sie>	<uczy>	<nauka>
+../pidgin-original/tlen/jem_.gif			<jem>	<je>
+../pidgin-original/tlen/usmiech_b.gif		<U\ŚMIECH>	<USMIECH>
+../pidgin-original/tlen/smutny_b.gif		<SMUTNY>
+../pidgin-original/tlen/wsciekly_b.gif		<Z\ŁY>	<ZLY>	<W\ŚCIEK\ŁY>	<WSCIEK\ŁY>	<W\ŚCIEKLY>	<WSCIEKLY>
+../pidgin-original/tlen/spacer_b.gif		<SPACER>
+../pidgin-original/tlen/jem_b.gif			<JEM>
+../pidgin-original/tlen/mail_b.gif			<MAIL>	<LIST>
+../pidgin-original/tlen/kwiatek_b.gif		<KWIATEK>
+../pidgin-original/tlen/telefon_b.gif		<TELEFON>
+../pidgin-original/tlen/usmiech1_.gif		:->

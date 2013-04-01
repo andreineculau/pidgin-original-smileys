@@ -1,0 +1,121 @@
+Name=Original Smileys, Yahoo!
+Description=Yahoo! as default
+Icon=../pidgin-original/yahoo/happy.gif
+Author=Andrei Neculau
+
+
+# Yahoo Messenger 9
+[default]
+../pidgin-original/yahoo/happy.gif				:)	:-)
+../pidgin-original/yahoo/sad.gif				:(	:-(
+../pidgin-original/yahoo/winking.gif			;)	;-)
+../pidgin-original/yahoo/biggrin.gif			:d	:-d	:D	:-D
+../pidgin-original/yahoo/battingeyelashes.gif	;;)	;;-)
+../pidgin-original/yahoo/bighug.gif				>:d<	>:D<
+../pidgin-original/yahoo/confused.gif			:-/	:-\\
+../pidgin-original/yahoo/lovestruck.gif			:x	:-x	:X	:-X
+../pidgin-original/yahoo/blushing.gif			:">
+
+../pidgin-original/yahoo/tongue.gif				:p	:-p	:P	:-P
+../pidgin-original/yahoo/kiss.gif				:*	:-*
+../pidgin-original/yahoo/brokenheart.gif		=((
+../pidgin-original/yahoo/surprise.gif			:o	:O	:-o	:-O
+../pidgin-original/yahoo/angry.gif				x(	x-(	X(	X-(
+../pidgin-original/yahoo/smug.gif				:>	:->
+../pidgin-original/yahoo/cool.gif				b-)	B-)
+../pidgin-original/yahoo/worried.gif			:-s	:-S
+../pidgin-original/yahoo/whew.gif				#:-s	#:S	#:-S
+../pidgin-original/yahoo/devil.gif				>:)
+
+../pidgin-original/yahoo/cry.gif				:((	:-((
+../pidgin-original/yahoo/laughing.gif			:))	:-))
+../pidgin-original/yahoo/straightface.gif		:|	:-|
+../pidgin-original/yahoo/raisedeyebrow.gif		/:)
+../pidgin-original/yahoo/rollingonthefloor.gif	=))
+../pidgin-original/yahoo/angel.gif				o:-)	O:-)
+../pidgin-original/yahoo/nerd.gif				:-b	:-B
+../pidgin-original/yahoo/talktothehand.gif		=;
+../pidgin-original/yahoo/sleepy.gif				|-)	i-)	I-)
+../pidgin-original/yahoo/rollingeyes.gif		8-|
+
+../pidgin-original/yahoo/loser.gif				l-)	L-)
+../pidgin-original/yahoo/sick.gif				:-&
+../pidgin-original/yahoo/donttellanyone.gif		:-$
+../pidgin-original/yahoo/nottalking.gif			[-(
+../pidgin-original/yahoo/clown.gif				:o)	:O)
+../pidgin-original/yahoo/silly.gif				8-}
+../pidgin-original/yahoo/party.gif				<:-p	<:-P
+../pidgin-original/yahoo/yawn.gif				(:|
+../pidgin-original/yahoo/drooling.gif			=p~	=P~
+../pidgin-original/yahoo/thinking.gif			:-?
+
+../pidgin-original/yahoo/doh.gif				#-o	#-O
+../pidgin-original/yahoo/applause.gif			=d>	=D>
+../pidgin-original/yahoo/nailbiting.gif			:-ss	:-sS	:-Ss	:-SS
+../pidgin-original/yahoo/hypnotized.gif			@-)
+../pidgin-original/yahoo/liar.gif				:^o	:^O
+../pidgin-original/yahoo/waiting.gif			:-w	:-W
+../pidgin-original/yahoo/sigh.gif				:-<
+../pidgin-original/yahoo/phbbbbt.gif			>:p	>:P
+../pidgin-original/yahoo/cowboy.gif				<):)
+
+# Hidden Yahoo
+../pidgin-original/yahoo/pig.gif				:@)
+
+../pidgin-original/yahoo/cow.gif				3:-o	3:-O
+../pidgin-original/yahoo/monkey.gif				:(|)
+../pidgin-original/yahoo/chicken.gif			~:>
+../pidgin-original/yahoo/rose.gif				@};-
+../pidgin-original/yahoo/goodluck.gif			%%-
+../pidgin-original/yahoo/flag.gif				**==
+../pidgin-original/yahoo/pumpkin.gif			(~~)
+../pidgin-original/yahoo/coffee.gif				~o)	~O)
+../pidgin-original/yahoo/idea.gif				*-:)
+../pidgin-original/yahoo/skull.gif				8-x	8-X
+
+../pidgin-original/yahoo/bug.gif				=:)
+../pidgin-original/yahoo/alien.gif				>-)
+../pidgin-original/yahoo/frustrated.gif			:-l	:-L
+../pidgin-original/yahoo/praying.gif			[-o<	[-O<
+../pidgin-original/yahoo/moneyeyes.gif			$-)
+../pidgin-original/yahoo/whistling.gif			:-"
+../pidgin-original/yahoo/feelingbeatup.gif		b-(	B-(
+../pidgin-original/yahoo/peacesign.gif			:)>-
+../pidgin-original/yahoo/shameonyou.gif			[-x	[-X
+../pidgin-original/yahoo/dancing.gif			\\:d/	\\:D/
+
+../pidgin-original/yahoo/bringiton.gif			>:/
+../pidgin-original/yahoo/heehee.gif				;))
+../pidgin-original/yahoo/hiro.gif				o->	O->
+../pidgin-original/yahoo/billy.gif				o=>	O=>
+../pidgin-original/yahoo/april.gif				o-+	O-+
+../pidgin-original/yahoo/yinyang.gif			(%)
+../pidgin-original/yahoo/chatterbox.gif			:-@
+../pidgin-original/yahoo/ohgoon.gif				:-j
+../pidgin-original/yahoo/notworthy.gif			^:)^
+
+../pidgin-original/yahoo/star.gif				(*)
+# Hidden - end
+
+../pidgin-original/yahoo/onthephone.gif 		:)]
+../pidgin-original/yahoo/callme.gif				:-c	:-C
+../pidgin-original/yahoo/atwitsend.gif			~x(	~X(
+../pidgin-original/yahoo/wave.gif				:-h	:-H
+../pidgin-original/yahoo/timeout.gif			:-t	:-T
+../pidgin-original/yahoo/daydreaming.gif		8->
+
+# Hidden Yahoo
+../pidgin-original/yahoo/idontknow.gif			:-??
+../pidgin-original/yahoo/notlistening.gif		%-(
+../pidgin-original/yahoo/puppydogeyes.gif		:o3	:O3
+# Hidden - end
+
+# Web Messenger Only
+../pidgin-original/yahoo/noxxx.gif				x_x	x_X	X_x	X_X
+../pidgin-original/yahoo/hurryup.gif			:!!	:-!!
+../pidgin-original/yahoo/rockon.gif				\\m/	\\M/
+../pidgin-original/yahoo/thumbsdown.gif			:q	:-q
+../pidgin-original/yahoo/thumbsup.gif			:bd	:-bd
+../pidgin-original/yahoo/wasntme.gif			^#(^
+../pidgin-original/yahoo/bee.gif				:bz
+# Web Messenger Only - end

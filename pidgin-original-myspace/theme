@@ -1,0 +1,33 @@
+Name=Original Smileys, MySpaceIM
+Description=MySpaceIM as default
+Icon=../pidgin-original/myspace/happy.png
+Author=Andrei Neculau
+
+
+# MySpaceIM 1
+[default]
+../pidgin-original/myspace/bigsmile.png		:D	:-D
+../pidgin-original/myspace/devil.png		}:)
+../pidgin-original/myspace/frazzled.png		:Z
+../pidgin-original/myspace/geek.png			B)
+../pidgin-original/myspace/googles.png		%)
+../pidgin-original/myspace/growl.png		:E
+../pidgin-original/myspace/happy.png		:)	:-)
+../pidgin-original/myspace/heart.png		:X
+../pidgin-original/myspace/laugh.png		:))
+../pidgin-original/myspace/mohawk.png		-:
+../pidgin-original/myspace/mad.png			X(
+../pidgin-original/myspace/messed.png		X)
+../pidgin-original/myspace/nerd.png			Q)
+../pidgin-original/myspace/oops.png			:G
+../pidgin-original/myspace/pirate.png		P)
+../pidgin-original/myspace/scared.png		:O
+../pidgin-original/myspace/sidefrown.png	:{
+../pidgin-original/myspace/sinister.png		:B
+../pidgin-original/myspace/smirk.png		:,
+../pidgin-original/myspace/straight.png		:|
+../pidgin-original/myspace/tongue.png		:P	:p
+../pidgin-original/myspace/upset.png		B|
+../pidgin-original/myspace/wink.png			;-)	;)
+../pidgin-original/myspace/worried.png		:[
+../pidgin-original/myspace/kiss.png			:x

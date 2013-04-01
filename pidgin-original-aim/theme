@@ -1,0 +1,25 @@
+Name=Original Smileys, AIM
+Description=AIM as default
+Icon=../pidgin-original/aim/smiling.gif
+Author=Andrei Neculau
+
+
+# AIM 6.5
+[default]
+../pidgin-original/aim/smiling.gif				:)	:-)
+../pidgin-original/aim/winking.gif				;)	;-)
+../pidgin-original/aim/frowning.gif				:(	:-(
+../pidgin-original/aim/stickingouttongue.gif	:-p	:-P
+../pidgin-original/aim/surprised.gif			=-O
+../pidgin-original/aim/kissing.gif				:-*
+../pidgin-original/aim/yelling.gif				>:o
+../pidgin-original/aim/ecstatic.gif				:D	:-D
+../pidgin-original/aim/moneymouth.gif			:-$
+
+../pidgin-original/aim/footinmouth.gif			:-!
+../pidgin-original/aim/embarrassed.gif			:-[
+../pidgin-original/aim/innocent.gif				O:-)
+../pidgin-original/aim/undecided.gif			:-\\
+../pidgin-original/aim/crying.gif				:'(
+../pidgin-original/aim/lipsaresealed.gif		:-X
+../pidgin-original/aim/cool.gif					8-)

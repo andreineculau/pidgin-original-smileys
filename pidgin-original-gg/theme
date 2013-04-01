@@ -1,0 +1,213 @@
+Name=Original Smileys, Gadu-Gadu
+Description=Gadu-Gadu as default
+Icon=../pidgin-original/gg/1-usmiech.gif
+Author=Andrei Neculau
+
+
+# Gadu-Gadu 7.7
+[default]
+# Type 1
+../pidgin-original/gg/1-usmiech.gif			:)
+../pidgin-original/gg/1-ostr.gif			:>
+../pidgin-original/gg/1-kwadr.gif			:]
+../pidgin-original/gg/1-smutny.gif			:(
+../pidgin-original/gg/1-yyyy.gif			:|
+../pidgin-original/gg/1-uoeee.gif			<uoee>
+../pidgin-original/gg/1-haha.gif			<lol>
+../pidgin-original/gg/1-rotfl.gif			<rotfl>
+../pidgin-original/gg/1-oczko.gif			;)
+../pidgin-original/gg/1-jezyk.gif			:P
+../pidgin-original/gg/1-jezyk_oko.gif		;P
+../pidgin-original/gg/1-zacieszacz.gif		<radocha>
+../pidgin-original/gg/1-luzik.gif			<luzik>
+../pidgin-original/gg/1-figielek.gif		<figielek>
+../pidgin-original/gg/1-milczek.gif			<milczek>
+../pidgin-original/gg/1-stres.gif			<stres>
+../pidgin-original/gg/1-nerwus.gif			<nerwus>
+../pidgin-original/gg/1-zly.gif				:[
+../pidgin-original/gg/1-zalamka.gif			<zalamka>
+../pidgin-original/gg/1-wnerw.gif			<wnerw>
+../pidgin-original/gg/1-glupek.gif			<glupek>	<g\łupek>
+../pidgin-original/gg/1-mysli.gif			<mysli>
+../pidgin-original/gg/1-okok.gif			<okok>
+../pidgin-original/gg/1-szok.gif			<szok>
+../pidgin-original/gg/1-wysmiewacz.gif		<wysmiewacz>
+../pidgin-original/gg/1-dokuczacz.gif		<dokuczacz>
+../pidgin-original/gg/1-oklasky.gif			<brawo>
+../pidgin-original/gg/1-hura.gif			<hura>
+../pidgin-original/gg/1-foch.gif			<foch>
+../pidgin-original/gg/1-cwaniak.gif			<cwaniak>
+../pidgin-original/gg/1-klotnia.gif			<klotnia>	<k\ł\ótnia>
+../pidgin-original/gg/1-spadaj.gif			<spadaj>
+../pidgin-original/gg/1-dobani.gif			<blee>
+../pidgin-original/gg/1-paluszkiem.gif		<nono>
+../pidgin-original/gg/1-beczy.gif			<beczy>
+../pidgin-original/gg/1-kwiatek.gif			<kwiatek>
+../pidgin-original/gg/1-zawstydzony.gif		<skromny>
+../pidgin-original/gg/1-mniam.gif			<mniam>
+../pidgin-original/gg/1-hejka.gif			<hejka>
+../pidgin-original/gg/1-prosi.gif			<prosi>
+../pidgin-original/gg/1-tak.gif				<tak>
+../pidgin-original/gg/1-nie.gif				<nie>
+../pidgin-original/gg/1-bezradny.gif		<bezradny>
+../pidgin-original/gg/1-zmeczony.gif		<zmeczony>
+../pidgin-original/gg/1-pocieszacz.gif		<pocieszacz>
+../pidgin-original/gg/1-buziak.gif			<buziak>
+../pidgin-original/gg/1-buzki.gif			<buzki>	<bu\źki>
+../pidgin-original/gg/1-plask.gif			<plask>
+../pidgin-original/gg/1-boisie.gif			<boisie>	<boisi\ę>
+../pidgin-original/gg/1-zlezkawoku.gif		<zlezka>
+../pidgin-original/gg/1-papa.gif			<papa>
+../pidgin-original/gg/1-papa2.gif			<papa2>
+../pidgin-original/gg/1-krzyk.gif			<krzyk>
+../pidgin-original/gg/1-plotki.gif			<plotki>
+../pidgin-original/gg/1-muza.gif			<muza>
+../pidgin-original/gg/1-pies.gif			<pies>
+../pidgin-original/gg/1-kotek.gif			<kot>
+../pidgin-original/gg/1-zakupy.gif			<zakupy>
+../pidgin-original/gg/1-aparat.gif			<fotka>
+../pidgin-original/gg/1-w8.gif				<w8>
+
+# Type 2
+../pidgin-original/gg/2-wesoly.gif				:))	:)))	:))))
+../pidgin-original/gg/2-smutny.gif				:((	:(((	:((((	:-(
+../pidgin-original/gg/2-mruga.gif				;))	;)))	;))))
+../pidgin-original/gg/2-zly.gif					<zly>	wrrrr!
+../pidgin-original/gg/2-z_jezorem.gif			<z\ jezorem>
+../pidgin-original/gg/2-zniesmaczony.gif		<zniesmaczony>
+../pidgin-original/gg/2-niee.gif				niee
+../pidgin-original/gg/2-tiaaa.gif				tiaaa
+../pidgin-original/gg/2-zdziwko.gif				<zdziwiony>
+../pidgin-original/gg/2-beksa.gif				<beksa>
+../pidgin-original/gg/2-lol.gif					<haha>
+../pidgin-original/gg/2-rotfl.gif				<rotfl3>
+../pidgin-original/gg/2-wstydnis.gif			<zawstydzony>
+../pidgin-original/gg/2-8p.gif					<pokazal\ jezyk>	<pokaza\ł\ j\ęzyk>
+../pidgin-original/gg/2-gafa.gif				<gafa>
+../pidgin-original/gg/2-zab.gif					<zab>
+../pidgin-original/gg/2-ziew.gif				<ziewa2>
+../pidgin-original/gg/2-prysznic.gif			<prysznic>
+../pidgin-original/gg/2-wanna.gif				<wanna>
+../pidgin-original/gg/2-wc.gif					<wc>
+../pidgin-original/gg/2-krecka_dostal.gif		<urwanie\ glowy>
+../pidgin-original/gg/2-hmmm.gif				<mysli2>
+../pidgin-original/gg/2-puknijsie.gif			<niedowiarek>
+../pidgin-original/gg/2-olaboga.gif				<olaboga>
+../pidgin-original/gg/2-tort.gif				<urodziny>
+../pidgin-original/gg/2-bukiet.gif				<bukiet>
+../pidgin-original/gg/2-szampan.gif				<winko>
+../pidgin-original/gg/2-gool.gif				<gool>
+../pidgin-original/gg/2-cmok.gif				<cmok2>
+../pidgin-original/gg/2-onajego.gif				<onajego>
+../pidgin-original/gg/2-buja_w_oblokach.gif		<buja\ w\ oblokach>	<buja\ w\ ob\łokach>
+../pidgin-original/gg/2-zakochany.gif			<zakochany>
+../pidgin-original/gg/2-pada.gif				<leje>
+../pidgin-original/gg/2-okularnik.gif			<okularnik>
+../pidgin-original/gg/2-snieg.gif				<snieg>	<\śnieg>
+../pidgin-original/gg/2-spioch.gif				<spioch>	<\śpioch>
+../pidgin-original/gg/2-je_pizze.gif			<je_pizze>
+../pidgin-original/gg/2-piwko2.gif				<piwosz>
+../pidgin-original/gg/2-drink.gif				<drinkuje>
+../pidgin-original/gg/2-obiad.gif				<obiad>
+../pidgin-original/gg/2-telefon.gif				<telefon2>
+../pidgin-original/gg/2-gazeta.gif				<czyta\ gazete>	<czyta\ gazet\ę>
+../pidgin-original/gg/2-chatownik.gif			<chatownik>
+../pidgin-original/gg/2-gra.gif					<gra>
+../pidgin-original/gg/2-bije.gif				<bije>
+../pidgin-original/gg/2-dresiarz.gif			<dresik>
+../pidgin-original/gg/2-dostal.gif				<bija>	<bij\ą>
+../pidgin-original/gg/2-palacz.gif				<palacz>
+../pidgin-original/gg/2-nonono.gif				<nonono>
+../pidgin-original/gg/2-brawa.gif				<oklaski>
+../pidgin-original/gg/2-heej.gif				<heej>
+../pidgin-original/gg/2-fuck.gif				<spadowa>	<spad\ówa>
+../pidgin-original/gg/2-dobani.gif				<do\ bani>
+../pidgin-original/gg/2-ok.gif					<ok>
+../pidgin-original/gg/2-papa.gif				<lapka>
+../pidgin-original/gg/2-serducho.gif			<serducho>
+../pidgin-original/gg/2-zegar.gif				<zegar>
+../pidgin-original/gg/2-jablko.gif				<jablko>	<jab\łko>
+../pidgin-original/gg/2-kawa.gif				<kawa>
+../pidgin-original/gg/2-kwiatek.gif				<kwiatuszek>
+../pidgin-original/gg/2-prezent.gif				<prezent>
+../pidgin-original/gg/2-serce.gif				<serce>
+../pidgin-original/gg/2-milosc.gif				<milosc>	<mi\ło\ś\ć>
+../pidgin-original/gg/2-usta.gif				<usta>
+
+# Type 3
+../pidgin-original/gg/3-usmiech.gif			<wesoly>	<weso\ły>
+../pidgin-original/gg/3-usmiech2.gif		:-)	:-))	:-)))	:-))))	:-)))))	:-))))))	:-)))))))	:-))))))))	:-)))))))))	:-))))))))))	:-))))))))))
+../pidgin-original/gg/3-smutny.gif			<smutny>
+../pidgin-original/gg/3-oczko.gif			<mruga>
+../pidgin-original/gg/3-oczko2.gif			;-)	;-))	;-)))	;-))))	;-)))))	;-))))))	;-)))))))	;-))))))))	;-)))))))))	;-))))))))))
+../pidgin-original/gg/3-zly.gif				<zdenerwowany>
+../pidgin-original/gg/3-jezyk1.gif			:PP	:PPP	:PPPP	:PPPPP	:PPPPPP	:PPPPPPP	:PPPPPPPP	:PPPPPPPPP	:PPPPPPPPPP	:-P	:-PP	:-PPP	:-PPPP	:-PPPPP	:-PPPPPP	:-PPPPPPP	:-PPPPPPPP	:-PPPPPPPPP	:-PPPPPPPPPP
+../pidgin-original/gg/3-jezyk2.gif			;PP	;PPP	;PPPP	;PPPPP	;PPPPPP	;PPPPPPP	;PPPPPPPP	;PPPPPPPPP	;PPPPPPPPPP	;-P	;-PP	;-PPP	;-PPPP	;-PPPPP	;-PPPPPP	;-PPPPPPP	;-PPPPPPPP	;-PPPPPPPPP	;-PPPPPPPPPP
+../pidgin-original/gg/3-nie.gif				<no>
+../pidgin-original/gg/3-ok.gif				<yes>
+../pidgin-original/gg/3-ok2.gif				<spox>
+../pidgin-original/gg/3-wykrzyknik.gif		!!
+../pidgin-original/gg/3-pytajnik.gif		??
+../pidgin-original/gg/3-placze.gif			;(	;((	;(((	;((((	;(((((	;((((((	;-(	;-((	;-(((	;-((((	;-(((((	<placze>	<p\łacze>
+../pidgin-original/gg/3-lol.gif				<lol2>
+../pidgin-original/gg/3-zeby.gif			:D	:-D	;D	;-D
+../pidgin-original/gg/3-rotfl.gif			<rotfl2>
+../pidgin-original/gg/3-wow.gif				<wow>	<szok>	:O	:-O	;O	;-O
+../pidgin-original/gg/3-wsciekly.gif		<wsciekly>	<w\ściek\ły>
+../pidgin-original/gg/3-zawstydzony.gif		<wstydnis>	<wstydni\ś>
+../pidgin-original/gg/3-co_jest.gif			<co\ jest?>	<co\ jest>
+../pidgin-original/gg/3-chytry.gif			;>	:->	;->
+../pidgin-original/gg/3-spie.gif			<spie>	<\śpi\ę>	<ziewa>
+../pidgin-original/gg/3-ysz.gif				;|	:-|	;-|	<hmmm>
+../pidgin-original/gg/3-krzywy.gif			;]	:-]	;-]
+../pidgin-original/gg/3-kwasny.gif			:/	;/	:-/	;-/	<zniesmaczony>
+../pidgin-original/gg/3-roza.gif			<roza>
+../pidgin-original/gg/3-piwo.gif			<piwo>
+../pidgin-original/gg/3-nie_powiem.gif		<nie\ powiem>
+../pidgin-original/gg/3-sex.gif				<sex>
+../pidgin-original/gg/3-soczek.gif			<soczek>
+../pidgin-original/gg/3-cmok.gif			:*	:-*	;*	;-*	<cmok>
+../pidgin-original/gg/3-calus.gif			<calus>		<ca\łus>
+../pidgin-original/gg/3-oczy.gif			<marzyciel>
+../pidgin-original/gg/3-sciana.gif			<sciana>	<\ściana>
+../pidgin-original/gg/3-serduszka.gif		<serduszka>
+../pidgin-original/gg/3-przytul.gif			<przytul>
+../pidgin-original/gg/3-uscisk.gif			<uscisk>	<u\ścisk>
+../pidgin-original/gg/3-glaszcze.gif		<glaszcze>	<g\łaszcze>
+../pidgin-original/gg/3-cfaniak.gif			<cwaniak2>
+../pidgin-original/gg/3-jem.gif				<jem>
+../pidgin-original/gg/3-hahaha.gif			<hahaha>
+../pidgin-original/gg/3-telefon.gif			<telefon>
+../pidgin-original/gg/3-klotnia.gif			<halas>
+../pidgin-original/gg/3-pisze.gif			<pisze>
+../pidgin-original/gg/3-boks.gif			<boks>
+../pidgin-original/gg/3-faja.gif			<faja>
+../pidgin-original/gg/3-papa.gif			<papapa>
+../pidgin-original/gg/3-3m_sie.gif			<3m\ sie>	<3m\ si\ę>
+../pidgin-original/gg/3-czas.gif			<czas>
+../pidgin-original/gg/3-cisza.gif			<cisza>
+../pidgin-original/gg/3-co.gif				<co?>	<co>
+../pidgin-original/gg/3-czarodziej.gif		<czarodziej>
+../pidgin-original/gg/3-czytaj.gif			<czytaj>
+../pidgin-original/gg/3-diabelek.gif		]:->
+../pidgin-original/gg/3-dupa.gif			<dupa>
+../pidgin-original/gg/3-ganja.gif			<ganja>
+../pidgin-original/gg/3-glupek2.gif			<idiota>
+../pidgin-original/gg/3-glupek.gif			<jestem\ z\ glupkiem>	<jestem\ z\ g\łupkiem>
+../pidgin-original/gg/3-jupi.gif			<jupi>
+../pidgin-original/gg/3-killer.gif			<killer>
+../pidgin-original/gg/3-list.gif			<list>
+../pidgin-original/gg/3-nauka.gif			<nauka>
+../pidgin-original/gg/3-paker.gif			<paker>
+../pidgin-original/gg/3-aniolek.gif			<aniolek>	<anio\łek>
+../pidgin-original/gg/3-peace.gif			<peace>
+../pidgin-original/gg/3-pomocy.gif			<pomocy>
+../pidgin-original/gg/3-boje_sie.gif		<boje\ sie>	<boje\ si\ę>
+../pidgin-original/gg/3-serduszka2.gif		<serduszka2>
+../pidgin-original/gg/3-slonko.gif			<slonko>	<s\łonko>
+../pidgin-original/gg/3-spoko.gif			<spoko>
+../pidgin-original/gg/3-stop.gif			<stop>
+../pidgin-original/gg/3-tancze.gif			<tancze>	<ta\ńcze>
+../pidgin-original/gg/3-tuptup.gif			<tuptup>
+../pidgin-original/gg/3-uczen.gif			<uczen>	<ucze\ń>
+../pidgin-original/gg/3-rzygi.gif			<rzygi>

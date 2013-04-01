@@ -1,0 +1,50 @@
+Name=Original Smileys, GTalk
+Description=GTalk as default
+Icon=../pidgin-original/gtalk/nosesmile.gif
+Author=Andrei Neculau
+
+
+# Google Talk
+[default]
+../pidgin-original/gtalk/smile.gif				:)
+../pidgin-original/gtalk/grin.gif				:D
+../pidgin-original/gtalk/wink.gif				;)
+../pidgin-original/gtalk/frown.gif				:(
+../pidgin-original/gtalk/cry.gif				:'(
+
+../pidgin-original/gtalk/shocked.gif			:-o
+../pidgin-original/gtalk/slant.gif				:-/
+../pidgin-original/gtalk/angry.gif				x-(
+../pidgin-original/gtalk/wince.gif				\>.\<
+../pidgin-original/gtalk/straightface.gif		:-|
+
+../pidgin-original/gtalk/cool.gif				B-)
+../pidgin-original/gtalk/tongue.gif				:p	:P
+../pidgin-original/gtalk/heart.gif				<3
+../pidgin-original/gtalk/brokenheart.gif		</3
+../pidgin-original/gtalk/devil.gif				}:-)
+
+../pidgin-original/gtalk/kissstar.gif			:*	:-x
+../pidgin-original/gtalk/pig.gif				:(:)
+../pidgin-original/gtalk/monkey.gif				:(|)
+../pidgin-original/gtalk/rockout.gif			\\m/
+../pidgin-original/gtalk/cowbell.gif			+/'\\
+
+../pidgin-original/gtalk/crab.gif				V.v.V
+../pidgin-original/gtalk/robot.gif				[:|]
+../pidgin-original/gtalk/mustache.gif			:{
+../pidgin-original/gtalk/poop.gif				~@~
+
+# Variations
+! ../pidgin-original/gtalk/equalsmile.gif		=)
+! ../pidgin-original/gtalk/equalgrin.gif		=D
+! ../pidgin-original/gtalk/equalsad.gif			=(
+! ../pidgin-original/gtalk/equalslant.gif		=/
+! ../pidgin-original/gtalk/equaltongue.gif		=p	=P
+
+! ../pidgin-original/gtalk/nosesmile.gif		:-)
+! ../pidgin-original/gtalk/nosegrin.gif			:-D
+! ../pidgin-original/gtalk/nosewink.gif			;-)
+! ../pidgin-original/gtalk/nosebigwink.gif		;^)
+! ../pidgin-original/gtalk/nosesad.gif			:-(
+! ../pidgin-original/gtalk/nosetongue.gif		:-p	:-P

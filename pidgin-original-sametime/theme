@@ -1,0 +1,27 @@
+Name=Original Smileys, Sametime
+Description=Sametime as default
+Icon=../pidgin-original/sametime/happy.gif
+Author=Andrei Neculau
+
+
+# Sametime 7.5
+[default]
+../pidgin-original/sametime/angel.gif		0:-)
+../pidgin-original/sametime/angry.gif		:-@	:@
+../pidgin-original/sametime/bigsmile.gif	:-D	:D
+../pidgin-original/sametime/confused.gif	:-/	:/
+../pidgin-original/sametime/cool.gif		8-)	8)
+../pidgin-original/sametime/crying.gif		:'(
+../pidgin-original/sametime/eyebrow.gif		/:-)	/:)
+../pidgin-original/sametime/goofy.gif		:-S	:S
+../pidgin-original/sametime/happy.gif		:-)	:)
+../pidgin-original/sametime/hysterical.gif	rofl
+../pidgin-original/sametime/laugh.gif		lol
+../pidgin-original/sametime/lightbulb.gif	(i)
+../pidgin-original/sametime/sad.gif			:-(	:(
+../pidgin-original/sametime/shy.gif			:-$	:$
+../pidgin-original/sametime/surprised.gif	:-O	:-o	:O	:o
+../pidgin-original/sametime/thumbsdown.gif	(n)
+../pidgin-original/sametime/thumbsup.gif	(y)
+../pidgin-original/sametime/tongue.gif		:-P	:P
+../pidgin-original/sametime/wink.gif		;-)	;)

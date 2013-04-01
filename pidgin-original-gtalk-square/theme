@@ -1,0 +1,50 @@
+Name=Original Smileys, GTalk Square
+Description=GTalk Square as default
+Icon=../pidgin-original/gtalk-square/logo.png
+Author=Andrei Neculau
+
+
+# Google Talk
+[default]
+../pidgin-original/gtalk-square/smile.gif			:)	=)	:-)
+../pidgin-original/gtalk-square/grin.gif			:D	=D	:-D
+../pidgin-original/gtalk-square/wink.gif			;)	;-)	;^)
+../pidgin-original/gtalk-square/frown.gif			:(	=(	:-(
+../pidgin-original/gtalk-square/cry.gif				:'(
+
+../pidgin-original/gtalk-square/shocked.gif			:-o
+../pidgin-original/gtalk-square/slant.gif			:-/	=/
+../pidgin-original/gtalk-square/angry.gif			x-(
+../pidgin-original/gtalk-square/wince.gif			\>.\<
+../pidgin-original/gtalk-square/straightface.gif	:-|
+
+../pidgin-original/gtalk-square/cool.gif			B-)
+../pidgin-original/gtalk-square/tongue.gif			:p	:P	=p	=P	:-p	:-P
+../pidgin-original/gtalk-square/heart.gif			<3
+../pidgin-original/gtalk-square/brokenheart.gif		</3
+../pidgin-original/gtalk-square/devil.gif			}:-)
+
+../pidgin-original/gtalk-square/kissstar.gif		:*	:-x
+../pidgin-original/gtalk-square/pig.gif				:(:)
+../pidgin-original/gtalk-square/monkey.gif			:(|)
+../pidgin-original/gtalk-square/rockout.gif			\\m/
+../pidgin-original/gtalk-square/cowbell.gif			+/'\\
+
+../pidgin-original/gtalk-square/crab.gif			V.v.V
+../pidgin-original/gtalk-square/robot.gif			[:|]
+../pidgin-original/gtalk-square/mustache.gif		:{
+../pidgin-original/gtalk-square/poop.gif			~@~
+
+# Variations
+! ../pidgin-original/gtalk-square/equalsmile.gif	=)
+! ../pidgin-original/gtalk-square/equalgrin.gif		=D
+! ../pidgin-original/gtalk-square/equalsad.gif		=(
+! ../pidgin-original/gtalk-square/equalslant.gif	=/
+! ../pidgin-original/gtalk-square/equaltongue.gif	=p	=P
+
+! ../pidgin-original/gtalk-square/nosesmile.gif		:-)
+! ../pidgin-original/gtalk-square/nosegrin.gif		:-D
+! ../pidgin-original/gtalk-square/nosewink.gif		;-)
+! ../pidgin-original/gtalk-square/nosebigwink.gif	;^)
+! ../pidgin-original/gtalk-square/nosesad.gif		:-(
+! ../pidgin-original/gtalk-square/nosetongue.gif	:-p	:-P

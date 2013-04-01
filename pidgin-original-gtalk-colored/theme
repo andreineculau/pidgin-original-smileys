@@ -1,0 +1,50 @@
+Name=Original Smileys, GTalk Colored
+Description=GTalk Colored as default, Aditya Pandya
+Icon=../pidgin-original/gtalk-colored/logo.png
+Author=Andrei Neculau
+
+
+# Google Talk
+[default]
+../pidgin-original/gtalk-colored/smile.gif			:)	=)	:-)
+../pidgin-original/gtalk-colored/grin.gif			:D	=D	:-D
+../pidgin-original/gtalk-colored/wink.gif			;)	;-)	;^)
+../pidgin-original/gtalk-colored/frown.gif			:(	=(	:-(
+../pidgin-original/gtalk-colored/cry.gif			:'(
+
+../pidgin-original/gtalk-colored/shocked.gif		:-o
+../pidgin-original/gtalk-colored/slant.gif			:-/	=/
+../pidgin-original/gtalk-colored/angry.gif			x-(
+../pidgin-original/gtalk-colored/wince.gif			\>.\<
+../pidgin-original/gtalk-colored/straightface.gif	:-|
+
+../pidgin-original/gtalk-colored/cool.gif			B-)
+../pidgin-original/gtalk-colored/tongue.gif			:p	:P	=p	=P	:-p	:-P
+../pidgin-original/gtalk-colored/heart.gif			<3
+../pidgin-original/gtalk-colored/brokenheart.gif	</3
+../pidgin-original/gtalk-colored/devil.gif			}:-)
+
+../pidgin-original/gtalk-colored/kissstar.gif		:*	:-x
+../pidgin-original/gtalk-colored/pig.gif			:(:)
+../pidgin-original/gtalk-colored/monkey.gif			:(|)
+../pidgin-original/gtalk-colored/rockout.gif		\\m/
+../pidgin-original/gtalk-colored/cowbell.gif		+/'\\
+
+../pidgin-original/gtalk-colored/crab.gif			V.v.V
+../pidgin-original/gtalk-colored/robot.gif			[:|]
+#../pidgin-original/gtalk-colored/mustache.gif		:{
+../pidgin-original/gtalk-colored/poop.gif			~@~
+
+# Variations
+! ../pidgin-original/gtalk-colored/equalsmile.gif	=)
+! ../pidgin-original/gtalk-colored/equalgrin.gif	=D
+! ../pidgin-original/gtalk-colored/equalsad.gif		=(
+! ../pidgin-original/gtalk-colored/equalslant.gif	=/
+! ../pidgin-original/gtalk-colored/equaltongue.gif	=p	=P
+
+! ../pidgin-original/gtalk-colored/nosesmile.gif	:-)
+! ../pidgin-original/gtalk-colored/nosegrin.gif		:-D
+! ../pidgin-original/gtalk-colored/nosewink.gif		;-)
+! ../pidgin-original/gtalk-colored/nosebigwink.gif	;^)
+! ../pidgin-original/gtalk-colored/nosesad.gif		:-(
+! ../pidgin-original/gtalk-colored/nosetongue.gif	:-p	:-P
