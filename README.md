@@ -16,7 +16,7 @@ This theme on the other hand is [unlicensed](http://unlicense.org/).
 
 This Pidgin theme hasn't been under development since 2010-02-26.
 
-~~If~~ When you find missing/incorrect/low-quality smileys, please file [a Github issue](issues/new), or even better send a pull request.
+~~If~~ When you find missing/incorrect/low-quality smileys, please file [a Github issue](https://github.com/andreineculau/pidgin-original-smileys/issues/new), or even better send a pull request.
 
 # Overview
 
@@ -64,7 +64,7 @@ The changelog: [pidgin-original-changelog.txt](pidgin-original-changelog.txt)
 
 # Installation
 
-1. Download the latest [tgz](archives/v1.9.tgz)
+1. Download the latest [tgz](https://github.com/andreineculau/pidgin-original-smileys/archive/v1.9.tar.gz)
 1. Open Pidgin, click Tools from the main menu, then Preferences (or simply Ctrl+P in the Pidgin window)
 1. Go to the Smiley Themes tab
 1. Drag and drop the downloaded tgz archive (i.e. pidgin-original-x.x.x.tgz), or click Add and point to the archive
