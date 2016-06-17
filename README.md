@@ -6,7 +6,7 @@ A Pidgin theme that implements original protocol smileys, originally hosted [her
 
 # WARNINGs
 
-**This project has been discontinued**! A fork is maintained at https://github.com/Hernou/pidgin-EAP . See https://github.com/Hernou/pidgin-EAP/commit/912eb60052046d0b5aa3a1f7fdc35bc6f5bc2cb6#diff-8a8ada6024e7b287c57e64de181a388c
+**This project has been discontinued**! A fork is maintained at https://github.com/PowaBanga/pidgin-EAP . See https://github.com/PowaBanga/pidgin-EAP/commit/912eb60052046d0b5aa3a1f7fdc35bc6f5bc2cb6#diff-8a8ada6024e7b287c57e64de181a388c
 
 ## Copyright/License
 
